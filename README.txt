@@ -2,7 +2,7 @@ This is a basic "back to top" jQuery type function for drupal.
 
 Add the .css to a css or sass file (and include it in the themename.styles.scss file)
 
-Put the image into the theme/themename/image folder
+Put the image into the themes/themename/image folder
 
 Add the js file to the js folder & reference from the html.tpl.php file, or add :
 
